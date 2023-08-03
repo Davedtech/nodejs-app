@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "A simple nodejs application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"mocha"
+  },
+  "author": "David wonder",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mocha": "^10.2.0"
+  }
+}
